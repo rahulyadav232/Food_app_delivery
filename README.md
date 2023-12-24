@@ -22,5 +22,5 @@ Transport restro food from one place to another
 6. For run frontend run npx start commmond
 
 # How its look
-![Fastfood delivery-page]("C:\Users\LENOVO\Downloads\fastfood.jpeg")
+![fastfood](https://github.com/rahulyadav232/Food_app_delivery/assets/68394509/709a3ef0-1900-49e1-a5ab-01e00cd26d6c)
 
